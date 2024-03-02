@@ -1,4 +1,3 @@
-[![MasterHead](https://digitaldaze.io/wp-content/uploads/2023/10/Retro_Gadgets.jpeg.jpg)](https://portfolio.doniverse.net)
 <h1 align="center">Hi 👋, I'm Naol Fekadu</h1>
 <h3 align="center">In love with all things creative</h3>
 <img src="https://usagif.com/wp-content/uploads/2023/01/ocean-wave-6-big-fast-blue-wave-acegif.gif" alt="breath taking wave" width="300" align="right"/>
