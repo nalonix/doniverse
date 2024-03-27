@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **PraxiBox**
 
-- 🌱 I’m currently learning **React, SvelteKit and Express**
+- 🌱 I’m currently working with and learning **React, SvelteKit and Express**
 
-- 💬 Ask me about **SvelteKit, GrammyJs and Node**
+- 💬 Ask me about **NextJS, SvelteKit, Node and everything JS**
 
 - 📫 How to reach me **nf.naol9@gmail.com**
 
